@@ -10,7 +10,6 @@ HomeHive is an  web application developed using Node.js, Express.js, EJS, and Mo
 - **Server-Side Validation**: Joi library is integrated for server-side validation to ensure data schema.
 - **Server-Side Rendering**: EJS is used for rendering the page server-side and sending it to the user.
 - **Image Storage**: Cloudinary API is utilized for image storage, allowing users to upload images of their properties.
-- **Responsive Design**: The application is fully responsive, and well suited for mobile view too.
 - - **Search Functionality**: Users can search for accommodations based on various criteria such as location, dates, and amenities.
 - - **Category-Based Listing**: Accommodations are categorized for easy browsing and filtering.
 
