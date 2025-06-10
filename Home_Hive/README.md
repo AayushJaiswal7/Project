@@ -27,7 +27,7 @@ HomeHive is an  web application developed using Node.js, Express.js, EJS, and Mo
 
 ## Other Dependencies
 
-- Cloudainary
+- Cloudinary
 - joi
 - method-override
 - multer
